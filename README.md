@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**KukretiShubham/KukretiShubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a Self taught developer.
+- I love Open Source 
+- Collaborate First! Code Next
+- Connect with me
+[![Shubham](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/ShubhamKukretii) [![Shubham](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/shubhamkukreti/)
+Support me & help me grow
+[![Shubham](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/shubhamkukreti)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br></br>
+[![Shubham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KukretiShubham&theme=xcode)](https://git.io/KukretiShubham)
+<br></br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KukretiShubham&theme=prussian&hide_border=true)](https://git.io/streak-stats)
