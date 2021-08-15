@@ -7,7 +7,7 @@
 <br></br>
 [![Shubham](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/ShubhamKukretii) [![Shubham](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/shubhamkukreti/)
 <br></br>
-**Support me & help me grow**
+- **Support me & help me grow**
 <br></br>
 [![Shubham](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/shubhamkukreti)
 
