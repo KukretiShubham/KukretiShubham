@@ -14,5 +14,5 @@
 [![Shubham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KukretiShubham&theme=xcode)](https://git.io/KukretiShubham)
 <br></br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KukretiShubham&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KukretiShubham&theme=prussian&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=KukretiShubham&theme=prussian&hide_border=true)
 
