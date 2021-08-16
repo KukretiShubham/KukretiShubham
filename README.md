@@ -15,4 +15,4 @@
 <br></br>
 > Support me & help me grow 🤗
 <br></br>
-[![Shubham](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/shubhamkukreti)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shubhamkukreti)
