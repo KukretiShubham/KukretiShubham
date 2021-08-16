@@ -7,8 +7,7 @@
 [![Shubham](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/ShubhamKukretii) [![Shubham](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/shubhamkukreti/)
 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KukretiShubham&theme=radical)](https://git.io/streak-stats)![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=KukretiShubham&show_icons=true&theme=radical&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KukretiShubham&theme=radical)](https://git.io/streak-stats) ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=KukretiShubham&show_icons=true&theme=radical&count_private=true)
 <br></br>
 [![Shubham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KukretiShubham&theme=xcode)](https://git.io/KukretiShubham)
 <br></br>
