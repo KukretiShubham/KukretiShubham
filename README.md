@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Shubham Kukreti](https://raw.githubusercontent.com/KukretiShubham/KukretiShubham/main/Group%202.png)
+
 - **I am a Self taught developer.**
 - **I love Open Source** ❤️ 
 - **Collaborate First! Code Next**
