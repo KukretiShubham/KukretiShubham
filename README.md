@@ -2,7 +2,7 @@
 
 - **I am a Self taught developer.**
 - **I love Open Source** ❤️ 
-- **Collaborate First! Code Next**
+- **Let's Collaborate First! Code Next**
 - **Connect with me** <br></br>
 [![Shubham](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/ShubhamKukretii) [![Shubham](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/shubhamkukreti/)
 
