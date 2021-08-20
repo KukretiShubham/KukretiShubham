@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-- **I am a Self taught developer.**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF355E&lines=I+am+a+Self+taught+developer)](https://git.io/typing-svg)
 - **I love Open Source** ❤️ 
 - **Let's Collaborate First! Code Next**
 - **Connect with me** <br></br>
