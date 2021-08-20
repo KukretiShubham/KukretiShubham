@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF355E&lines=I+am+a+Self+taught+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF355E&lines=I+am+a+Self+taught+developer)](https://git.io/KukretiShubham)
 - **I love Open Source** ❤️ 
 - **Let's Collaborate First! Code Next**
 - **Connect with me** <br></br>
