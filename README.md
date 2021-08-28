@@ -8,11 +8,11 @@
 
 <p align="center">
 	
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=KukretiShubham&theme=radical" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=KukretiShubham&theme=radical" />
 </p>
 <p align="center">
 
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KukretiShubham&show_icons=true&theme=radical&count_private=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=KukretiShubham&show_icons=true&theme=radical&count_private=true" />
 </p>
 
 
