@@ -8,9 +8,13 @@
 
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=KukretiShubham&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KukretiShubham&show_icons=true&theme=radical&count_private=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=KukretiShubham&theme=radical" />
 </p>
+<p align="center">
+
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KukretiShubham&show_icons=true&theme=radical&count_private=true" />
+</p>
+
 
 <br></br>
 [![Shubham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KukretiShubham&theme=redical&hide_border=true)](https://git.io/KukretiShubham)
