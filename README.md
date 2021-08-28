@@ -19,6 +19,6 @@
 <br></br>
 [![Shubham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KukretiShubham&theme=redical&hide_border=true)](https://git.io/KukretiShubham)
 <br></br>
-> Support me & help me grow 🤗
+> Support & help me grow 🤗
 <br></br>
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shubhamkukreti)
