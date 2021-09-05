@@ -8,7 +8,7 @@
 
 <p align="center">
 	
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=KukretiShubham&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KukretiShubham&theme=radical" />
 </p>
 <p align="center">
 
