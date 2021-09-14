@@ -1,7 +1,9 @@
 <h2 style="text-align: center;"><strong>Hi, I am Shubham</strong></h2>
 <p style="text-align: center;"><strong>I am a self-taught developer &amp; a tech enthusiast who loves to explore different technologies. Also, I love &amp; contribute to OpenSource. My interest lies in Web Development, Data Science and Blockchain technology.</strong></p>
 - **Connect with me** <br></br>
-[![Shubham](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/ShubhamKukretii) [![Shubham](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/shubhamkukreti/)
+- 
+[![Shubham](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/ShubhamKukretii) 
+[![Shubham](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/shubhamkukreti/)
 
 
 <br></br>
