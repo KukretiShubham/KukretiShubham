@@ -1,6 +1,9 @@
 <h2 style="text-align: center;"><strong>Hi, I am Shubham</strong></h2>
 
-<p style="text-align: center;"><strong>I am a self-taught developer &amp; a tech enthusiast who loves to explore different technologies. Also, I love &amp; contribute to OpenSource. My interest lies in Web Development, Data Science and Blockchain technology.</strong></p>
+<p style="text-align: center;"><strong>
+I am a self-taught developer and a tech enthusiast who loves to explore different technologies. Also, I love and contribute to OpenSource. My interest lies in Web Development, Data Science and Blockchain technology.
+</strong>
+</p>
 
 - **Connect with me** <br></br>
 
