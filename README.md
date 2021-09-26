@@ -4,7 +4,7 @@
 	I am a self-taught developer, who loves exploring different technologies. 
 	Also, I love and contribute to OpenSource. 
 	My interest lies in Web Development, Data Science and Blockchain technology.
-	As a Hobby, I play Chess and Read Physics. I also Cosmology, Space and everything related.
+	As a Hobby, I play Chess and Read Physics. I also love Cosmology, Space and everything related.
 </strong>
 </p>
 
