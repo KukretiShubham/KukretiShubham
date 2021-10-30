@@ -1,3 +1,4 @@
+
 <h2 style = "text-align: center;"><strong>Hi, I am Shubham</strong></h2>
 
 
@@ -20,10 +21,13 @@
 ![line](https://user-images.githubusercontent.com/57281769/139475005-b358700b-01ff-4f84-8fcd-dcbe8743b12d.png)
 
 
-- **Connect with me** <br></br>
+**Connect with me** 
 
-[![Shubham](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/ShubhamKukretii) 
-[![Shubham](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/shubhamkukreti/)
+|  Twitter| Linkedin  |
+|--|--|
+| [![Shubham](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/ShubhamKukretii)  | [![Shubham](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/shubhamkukreti/) |
+
+
 
 
 <br></br>
