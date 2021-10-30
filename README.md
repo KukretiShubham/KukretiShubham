@@ -12,6 +12,10 @@
 	As a Hobby, I like to play Chess and read Physics books. I also love Cosmology, Space or anything related to it.
 </strong>
 </p>
+<p style = "text-align: center;"><strong>
+	As a Hobby, I like to play Chess and read Physics books. I also love Cosmology, Space or anything related to it.
+</strong>
+</p>
 
 ![line](https://user-images.githubusercontent.com/57281769/139475005-b358700b-01ff-4f84-8fcd-dcbe8743b12d.png)
 
