@@ -21,7 +21,7 @@
 ![line](https://user-images.githubusercontent.com/57281769/139475005-b358700b-01ff-4f84-8fcd-dcbe8743b12d.png)
 
 
-**Connect with me** 
+**Connect with me 🤝** 
 
 |  Twitter| Linkedin  |
 |--|--|
