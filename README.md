@@ -10,7 +10,6 @@
 </p>
 <p style = "text-align: center;"><strong>
 	My interest lies in Web Development, Data Science and Blockchain technology.
-	As a Hobby, I like to play Chess and read Physics books. I also love Cosmology, Space or anything related to it.
 </strong>
 </p>
 <p style = "text-align: center;"><strong>
