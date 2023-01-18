@@ -28,15 +28,9 @@
 
 
 
-
-<br></br>
-[![Shubham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KukretiShubham&theme=redical&hide_border=true)](https://git.io/KukretiShubham)
-<br></br>
-
 <p align="center">
 	
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=KukretiShubham&theme=radical" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=KukretiShubham&show_icons=true&theme=radical&count_private=true" />
 </p>
 
 
