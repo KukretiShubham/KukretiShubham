@@ -25,14 +25,3 @@
 |  Twitter| Linkedin  |
 |--|--|
 | [![Shubham](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/ShubhamKukretii)  | [![Shubham](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/shubhamkukreti/) |
-
-
-
-<p align="center">
-	
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=KukretiShubham&theme=radical" />
-</p>
-
-
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shubhamkukreti)
